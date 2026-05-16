@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm David Marzban
 
 # 💫 About Me:
-I'm a Computer Science Master's student at KTH Royal Institute of Technology, Specializing in Cognitive System.<br>Interested in AI, Machine Learning, Deep Learning Data Science,Computer Vision, Speech and Speacker Technologies, and Search Engines Information Retrieval Systems.<br><br>I enjoy working on challenging problems, learning new technologies, and building intelligent applications that combine research, practical development, and human-centered computing. 
+I'm a Computer Science Master's student at KTH Royal Institute of Technology, Specializing in Cognitive System.<br>Interested in AI, Machine Learning, Deep Learning Data Science,Computer Vision, Speech and Speaker Recognition, and Search Engines Information Retrieval Systems.<br><br>I enjoy working on challenging problems, learning new technologies, and building intelligent applications that combine research, practical development, and human-centered computing. 
 
 
 ## 🌐 Socials:
